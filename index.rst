@@ -34,23 +34,23 @@ How to Use the Peacock TV Activation Code
 
 Follow this step-by-step guide to activate Peacock TV on any supported device.
 
-✅ **Step 1: Install Peacock App**  
+**Step 1: Install Peacock App**  
 Download and install the Peacock TV app on your Smart TV, Roku, Fire Stick, or other devices.
 
-✅ **Step 2: Get the Activation Code**  
+**Step 2: Get the Activation Code**  
 Open the app, and you'll see a unique activation code on your screen.
 
-✅ **Step 3: Go to Activation Page**  
+**Step 3: Go to Activation Page**  
 On your phone or computer, visit:  
 `https://www.peacocktv.com/tv <https://www.peacocktv.com/tv>`_
 
-✅ **Step 4: Sign In or Create an Account**  
+**Step 4: Sign In or Create an Account**  
 Sign in to your Peacock account. New users can create a free account instantly.
 
-✅ **Step 5: Enter the Code**  
+**Step 5: Enter the Code**  
 Enter the code displayed on your TV screen and click “Continue.”
 
-✅ **Step 6: Start Streaming**  
+**Step 6: Start Streaming**  
 Your device is now connected. Enjoy unlimited streaming!
 
 Supported Devices
@@ -58,43 +58,48 @@ Supported Devices
 
 Peacock TV works on the following:
 
-- ✅ Smart TVs (Samsung, LG, Vizio)  
-- ✅ Roku streaming devices  
-- ✅ Amazon Fire TV / Fire Stick  
-- ✅ Apple TV (tvOS 13+)  
-- ✅ Chromecast and Android TV  
-- ✅ Xbox One / Series X / Series S  
-- ✅ PlayStation 4 and 5  
-- ✅ iOS and Android smartphones  
-- ✅ Web browsers at `www.peacocktv.com <https://www.peacocktv.com>`_
+- Smart TVs (Samsung, LG, Vizio)  
+- Roku streaming devices  
+- Amazon Fire TV / Fire Stick  
+- Apple TV (tvOS 13+)  
+- Chromecast and Android TV  
+- Xbox One / Series X / Series S  
+- PlayStation 4 and 5  
+- iOS and Android smartphones  
+- Web browsers at `www.peacocktv.com <https://www.peacocktv.com>`_
 
 Advantages of Using Peacock TV
 ===============================
 
-🎬 **Free to Start** – Access a library of content without paying  
-⚡ **Fast Activation** – Get started in under 2 minutes  
-📺 **Huge Content Library** – From classic sitcoms to live sports  
-👨‍👩‍👧 **Multiple Profiles** – Ideal for families  
-🔐 **Parental Controls** – Keep content age-appropriate  
-📥 **Offline Viewing** – With Premium Plus on mobile  
-⚽ **Live Sports Access** – Includes soccer, WWE, and more  
+* **Free to Start** – Access a library of content without paying  
+* **Fast Activation** – Get started in under 2 minutes  
+* **Huge Content Library** – From classic sitcoms to live sports  
+* **Multiple Profiles** – Ideal for families  
+* **Parental Controls** – Keep content age-appropriate  
+* **Offline Viewing** – With Premium Plus on mobile  
+* **Live Sports Access** – Includes soccer, WWE, and more  
 
 Frequently Asked Questions (FAQs)
 ==================================
 
 **Q1: Is Peacock TV free?**  
+
 Yes! Peacock offers a free plan with ads and limited content. Premium and Premium Plus unlock additional features and content.
 
 **Q2: My activation code isn't working. What should I do?**  
+
 Refresh the code or relaunch the app. Ensure you're entering it on the official site within the valid time frame.
 
 **Q3: Can I watch on multiple devices?**  
+
 Yes, Peacock allows streaming on up to 3 devices at once.
 
 **Q4: Can I upgrade my Peacock plan later?**  
+
 Absolutely! Go to account settings and click “Manage Plan” to change your subscription.
 
 **Q5: Does Peacock support offline downloads?**  
+
 Yes, but only with the Premium Plus plan on mobile devices.
 
 My Experience Using Peacock TV
