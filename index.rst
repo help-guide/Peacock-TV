@@ -10,7 +10,7 @@ Activate Peacock TV on any device using your unique activation code. Visit `http
 
 .. image:: Button.png
    :alt: Activate Peacock TV
-   :target: https://fm.ci/?aHR0cHM6Ly9oZWxwY2VudGVyLXBlYWNvY2t0dnN0cmVhbS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://sites.google.com/view/wwwpeacocktvcomtv/	
 
 .. raw:: html
 
